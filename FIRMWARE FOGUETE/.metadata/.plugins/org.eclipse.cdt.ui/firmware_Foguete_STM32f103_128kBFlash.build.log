@@ -1,0 +1,10 @@
+16:30:03 **** Incremental Build of configuration Debug for project firmware_Foguete_STM32f103_128kBFlash ****
+make -j8 all 
+arm-none-eabi-size   firmware_Foguete_STM32f103_128kBFlash.elf 
+   text	   data	    bss	    dec	    hex	filename
+  55288	    520	   4480	  60288	   eb80	firmware_Foguete_STM32f103_128kBFlash.elf
+Finished building: default.size.stdout
+ 
+
+16:30:03 Build Finished. 0 errors, 0 warnings. (took 439ms)
+
